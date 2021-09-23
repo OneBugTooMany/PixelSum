@@ -1,2 +1,0 @@
-C:\Users\kouts\source\repos\PixelSum\Debug\PixelSum.exe
-C:\Users\kouts\source\repos\PixelSum\Debug\PixelSum.pdb
